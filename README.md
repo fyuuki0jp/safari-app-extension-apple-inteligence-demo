@@ -12,9 +12,9 @@ A Safari App Extension that demonstrates integration with Apple's FoundationMode
 
 ## Requirements
 
-- macOS 15.0+ (for FoundationModels framework)
-- Xcode 16.0+
-- Safari 17.0+
+- macOS 26.0+ (for FoundationModels framework)
+- Xcode 26.0+
+- Safari 26.0+
 - Apple Silicon Mac (recommended for Apple Intelligence features)
 
 ## Installation
